@@ -19,7 +19,7 @@
 | Computer Vision-03 | • 候选区域与滑动窗口<br>• IoU / Precision / Recall / NMS<br>• R-CNN → Fast R-CNN → Faster R-CNN<br>• YOLO 单阶段检测<br>• DETR 端到端集合预测<br>• FCN / SegNet / U-Net 分割 | [PPT](https://github.com/Ming0825-maker/JLU-AVCLab-Learning-Materials-and-Meeting-Reports/blob/main/reports/计算机视觉基础知识_陈一鸣_20260827.pptx) | [B站视频](https://www.bilibili.com/video/BV14itt68EdN/) |
 | 注意力机制、Transformer | • 点积注意力与自注意力：向量化、语义相似度、依赖关系图<br>• Attention 公式：softmax(QK^T/√d) V，Q / K / V 的角色理解<br>• 多头注意力：多子空间并行计算 + 拼接线性变换<br>• Transformer 架构：Embedding + 位置编码 + 多头自注意力 + FFN + 残差与层归一化<br>• 掩码多头自注意力：防止偷看未来 token<br>• 编码器-解码器注意力：K、V 来自编码器，Q 来自解码器<br>• 训练与推理：教师强制、逐步预测 | [飞书笔记](https://acn3t8qa5wm4.feishu.cn/wiki/NUZEwrOsQiRo9YkW3emcIY7PnIc) | 待补充 |
 | 生成式模型 | • 概率与信息论基础<br>• 隐变量模型与 VAE：ELBO 推导、编码器-解码器<br>• DDPM 扩散模型：前向加噪 / 反向去噪 / 噪声预测损失<br>• DDIM：非马尔可夫路径加速采样<br>• U-Net 与 LDM（Stable Diffusion）：潜空间扩散 + 条件生成<br>• ViT → DiT → MMDiT：扩散主干演进、多模态双流架构<br>• Flow Matching 与 Flux：速度场学习、CFM 目标、直线轨迹积分 | [飞书笔记](https://acn3t8qa5wm4.feishu.cn/wiki/Edm6wpAdlinyuvkvezycUIpHn9c) | 待补充 |
-| Codex 使用与 Skill 推荐 | • Codex 简介：云上软件工程智能体，CLI / Desktop / IDE 三种使用形态<br>• 模型与推理强度：GPT-5.5 等模型、低 / 中 / 高 / 超高推理强度<br>• 核心使用：计划模式、Vibe Coding、Git 审核、多对话并行<br>• PPT 生成 Skill：Pptx Skill 与 Codex Ppt Skill（gpt-image-2 图片式 PPT）<br>• 写作与办公 Skill：论文写作、去 AI 味、docx / PDF / Xlsx 处理<br>• 绘图与界面 Skill：canvas-design、Algorithmic Art、frontend-design<br>• 工作流推荐：Codex + Zotero + Obsidian 论文精读 | [飞书笔记](https://acn3t8qa5wm4.feishu.cn/wiki/CDKBwfb1OiFMHekJFXwcvkL6nKd) | 待补充 |
+| Codex 使用与 Skill 推荐 | • Codex：云端软件工程智能体，支持 CLI / Desktop / IDE<br>• 模型选择与推理强度设置<br>• 计划模式、Vibe Coding、Git 审核与多对话协作<br>• PPT、文档、PDF、表格、绘图等 Skill 推荐<br>• Codex + Zotero + Obsidian 论文精读工作流 | [飞书笔记](https://acn3t8qa5wm4.feishu.cn/wiki/CDKBwfb1OiFMHekJFXwcvkL6nKd) | [B站视频](https://www.bilibili.com/video/BV1kHLU6jEoi/?spm_id_from=333.1387.upload.video_card.click&vd_source=00d603d7ea836bdbba791b1c2d6976c6) |
 
 > 💡 说明：PPT 源文件统一存放在 `reports/` 目录，点击表格中的「PPT」即可查看或下载；「B站视频」点击即可跳转播放。
 
@@ -33,4 +33,4 @@
 - 2026-10-18：B 站链接改为文字链接，压缩列宽以突出讲述内容列
 - 2026-10-18：填入第四条「生成式模型」（AI 总结自飞书笔记）
 - 2026-10-18：填入「注意力机制、Transformer」（AI 总结自飞书笔记）
-- 2026-10-18：填入「Codex 使用与 Skill 推荐」（AI 总结自飞书笔记）
+- 2026-10-18：填入并补充「Codex 使用与 Skill 推荐」的 B 站视频链接
