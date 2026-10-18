@@ -8,7 +8,7 @@
 - 研究方向：**计算机视觉（Computer Vision）**、**世界模型（World Models）**
 - GitHub：[Ming0825-maker](https://github.com/Ming0825-maker)
 
-## 组会汇报
+## 学习、汇报内容分享
 
 本仓库持续整理组会汇报的**汇报主题、讲述内容、飞书 / PPT 资源与 B 站视频链接**，便于回顾与分享。
 
