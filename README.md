@@ -22,6 +22,7 @@
 | Codex 使用与 Skill 推荐 | • Codex：云端软件工程智能体，支持 CLI / Desktop / IDE<br>• 模型选择与推理强度设置<br>• 计划模式、Vibe Coding、Git 审核与多对话协作<br>• PPT、文档、PDF、表格、绘图等 Skill 推荐<br>• Codex + Zotero + Obsidian 论文精读工作流 | [飞书笔记](https://acn3t8qa5wm4.feishu.cn/wiki/CDKBwfb1OiFMHekJFXwcvkL6nKd) | [B站视频](https://www.bilibili.com/video/BV1kHLU6jEoi/?spm_id_from=333.1387.upload.video_card.click&vd_source=00d603d7ea836bdbba791b1c2d6976c6) |
 | AI大模型制作PowerPoint | • ChatGPT：用 Lyra 的 4-D 方法生成结构化 PPT 大纲<br>• OpenClaw：安装 PowerPoint PPTX Skill，支持编辑、导出和布局优化<br>• Gamma：支持提示词、粘贴文本、模板和文件导入四种生成方式<br>• Gemini 3.1 Pro：使用 Canvas 生成 Google 幻灯片，可导出演示文稿并提供演讲稿<br>• NotebookLM：基于文本、PDF、Word 等来源生成 PPT，视觉效果好但编辑能力有限<br>• Kimi：输入 PPT 大纲并指定输出 PPT，内容和图表较丰富<br>• 对比：OpenClaw、Gamma、Gemini 3.1 Pro 和 Kimi 可编辑；NotebookLM 视觉效果最佳但不可编辑 | [飞书笔记](https://acn3t8qa5wm4.feishu.cn/wiki/J6QWwB89ZisM5KkijrfcxjtYnUe) | 待补充 |
 | Qwen 大模型报告 | • Dense、MoE 与 Base / Instruct / Thinking 基础概念<br>• GQA、MQA、RoPE、SwiGLU、Pre-RMSNorm 等关键组件<br>• Qwen2.5：预训练、后训练与 DPO / GRPO<br>• Qwen3：Thinking / Non-thinking、强化学习与知识蒸馏<br>• Qwen3-Next、Qwen3-VL 与 Qwen3.5 Agent 技术演进 | [PPT](https://github.com/Ming0825-maker/JLU-AVCLab-Learning-Materials-and-Meeting-Reports/blob/main/reports/Qwen_大模型报告_陈一鸣_20260922.pptx) | [B站视频](https://www.bilibili.com/video/BV1H5H46PEaD/?spm_id_from=333.1387.upload.video_card.click&vd_source=00d603d7ea836bdbba791b1c2d6976c6) |
+| Qwen 微调实验 | • 基于 Qwen2-VL 的 LoRA 微调实验 | [PPT](https://github.com/Ming0825-maker/JLU-AVCLab-Learning-Materials-and-Meeting-Reports/blob/main/reports/Qwen_微调实验报告_陈一鸣_20260922.pptx) | [B站视频](https://www.bilibili.com/video/BV1H5H46PEaD/?spm_id_from=333.1387.upload.video_card.click&vd_source=00d603d7ea836bdbba791b1c2d6976c6) |
 
 > 💡 说明：PPT 源文件统一存放在 `reports/` 目录，点击表格中的「PPT」即可查看或下载；「B站视频」点击即可跳转播放。
 
@@ -38,3 +39,4 @@
 - 2026-10-18：填入并补充「Codex 使用与 Skill 推荐」的 B 站视频链接
 - 2026-10-18：填入「AI大模型制作PowerPoint」（AI 总结自飞书笔记）
 - 2026-10-18：填入「Qwen 大模型报告」并补齐 PPT、B 站链接
+- 2026-10-18：填入「Qwen 微调实验」并补齐 PPT、B 站链接
